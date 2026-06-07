@@ -6,7 +6,7 @@ const LeftContent = () => {
     <div className='h-full flex flex-col justify-between w-1/3'>
 
       <div className='p-6'>
-        <h3 className='mb-7 text-6xl font-bold'>
+        <h3 className='mb-7 leading-[1.1] text-6xl font-bold'>
           Prospective <br />
           <span>Customer</span>
           <br />
