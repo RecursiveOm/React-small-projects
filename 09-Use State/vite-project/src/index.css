@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+button{
+  padding-left: 4vh;
+  margin: 20px;
+  size: 40px;
+  text-align: center;
+  max-resolution: 40vh;
+  margin-left: 45vh;
+  width: 250px;
+  height: 140px;
+  font-size: 40px;
+  
+
+}
+h1{
+  text-align: center;
+  font-size: 40vh;
+  
+}
