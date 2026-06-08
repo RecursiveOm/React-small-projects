@@ -21,11 +21,33 @@ button{
   width: 250px;
   height: 140px;
   font-size: 40px;
-  
 
 }
 h1{
   text-align: center;
   font-size: 40vh;
+
   
+}
+
+body{
+ background:#09090B;
+}
+
+.card{
+ background:#18181B;
+ border:1px solid #D4AF37;
+}
+
+button{
+ background:#D4AF37;
+ color:#000;
+}
+
+h1{
+ color:#FAFAFA;
+}
+
+p{
+ color:#A1A1AA;
 }
